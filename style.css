@@ -1,0 +1,73 @@
+/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+/* Container */
+.container {
+    width: 50%;
+    margin: 50px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Input & Button */
+input {
+    padding: 10px;
+    width: 60%;
+    border: 2px solid #007bff;
+    border-radius: 5px;
+}
+
+button {
+    padding: 10px 15px;
+    background: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+/* Profile Details */
+#profile {
+    margin-top: 20px;
+    padding: 15px;
+    text-align: left;
+}
+
+#profile h2 {
+    color: #333;
+}
+
+#profile img {
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+#profile p {
+    font-size: 16px;
+    color: #555;
+}
+
+#profile a {
+    display: inline-block;
+    margin-top: 10px;
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+}
+
+#profile a:hover {
+    color: #0056b3;
+}
