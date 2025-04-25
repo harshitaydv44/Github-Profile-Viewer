@@ -8,5 +8,5 @@ A simple project that fetches and displays GitHub user profiles using the GitHub
 
 
 
-4o
+
 
